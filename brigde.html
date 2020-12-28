@@ -19,7 +19,110 @@
 <!-- /Yandex.Metrika counter -->
 <link rel="shortcut icon" href="GooseFabr.github.io/img/favicon.goose.ico">
   <link rel="stylesheet" type="text/css" href="GooseFabr.github.io/Brigde.css"/> 
+ <style type="text/css">
+  .saitbar {
+     margin: 0 auto;
+     padding: 0;
+     width: 240px;
+     }
+  .menu-4, .menu-4 .podmenu, .menu-4 .podmenu-2 {
+     margin: 0;
+     padding: 0;
+     background-color: #999;
+     height: auto;
+     list-style-type: none;
+     }
+  .menu-4 li {
+     margin: 0 0 2px;
+     padding: 0;
+     background-color: #990000;
+     border-left: 26px solid #273ed9;
+     transition: all 0.7s ease 0s;
+     display: block;
+     position: relative;
+     }
+  .menu-4 a {
+     padding: 6px 0 8px 10px;
+     color: #f2f2f2;
+     text-decoration: none;
+     border-left: 6px solid #5269ff;
+     transition: all 0.7s ease 0s;
+     display: block;
+     }
+  .menu-4 li:hover {
+     background-color: #ccc;
+     }
+  .menu-4 li:hover a {
+     color: #0e25c0;
+     padding: 6px 0 8px 22px;
+     border-left: 6px solid #900000;
+     }
+  .menu-4 ul.podmenu, .menu-4 ul.podmenu-2 {
+     display: none;
+     position: absolute;
+     top: 0;
+     width: 150px;
+     background-color: #ccc;
+     }
+  .menu-4 ul.podmenu {
+     left: 214px;
+     }
+  .menu-4 ul.podmenu-2 {
+     left: 150px;
+     }
+  .menu-4 li:hover .podmenu, .podmenu li:hover .podmenu-2 {
+     display: block;
+     padding: 4px 0 4px 14px;
+     }
+  .menu-4 .podmenu li, .podmenu .podmenu-2 li {
+     margin: 0;
+     padding: 0;
+     background-color: #ccc;
+     border-left: 0 solid #273ed9;
+     transition: all 0.7s ease 0s;
+     display: block;
+     }
+  .menu-4 .podmenu li a, .podmenu .podmenu-2 li a {
+     border-left: 0 solid #900000;
+     padding: 4px 10px;
+     color: #444;
+     font-size: 14px;
+     border-bottom: 1px dotted #999;
+     }
+  .menu-4 .podmenu li a:hover, .podmenu .podmenu-2 li a:hover {
+     color: #0e25c0;
+     }
+</style>
 </head>
+ <div class="saitbar">
+ <ul class="menu-4">
+   <li><a href="#">Первый пункт меню</a></li>
+   <li><a href="#">Второй пункт меню ⇒</a>
+     <ul class="podmenu">
+       <li><a href="#">Первый подпункт</a></li>
+       <li><a href="#">Второй подпункт</a></li>
+       <li><a href="#">Третий подпункт ⇒</a>
+         <ul class="podmenu-2">
+           <li><a href="#">Первая ссылка</a></li>
+           <li><a href="#">Вторая ссылка</a></li>
+           <li><a href="#">Третья ссылка</a></li>
+           <li><a href="#">Четвёртая ссылка</a></li>
+         </ul>
+       </li>
+       <li><a href="#">Четвёртый подпункт</a></li>
+     </ul>
+   </li>
+   <li><a href="#">Третий пункт меню ⇒</a>
+     <ul class="podmenu">
+       <li><a href="#">Первая ссылка</a></li>
+       <li><a href="#">Вторая ссылка</a></li>
+       <li><a href="#">Третья ссылка</a></li>
+       <li><a href="#">Четвёртая ссылка</a></li>
+     </ul>
+   </li>
+   <li><a href="#">Четвёртый пункт меню</a></li>
+ </ul>
+</div>
  <body>
  <div>
  По дороге c Фабричного в Чекуново имеется поворот на право,
