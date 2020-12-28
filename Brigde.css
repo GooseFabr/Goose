@@ -10,6 +10,9 @@ text-align: center;
      -moz-background-size: 100% auto; 
     -webkit-background-size: 100% auto;
     -o-background-size: 100% auto; 
-    font-size:25px;
+   
     Color: #fff; 
+}
+div {
+ font-size:25px;
 }
