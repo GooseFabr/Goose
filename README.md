@@ -2,7 +2,20 @@
     <head>
         <style>
             body{
-background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; }
+background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; 
+ margin-right: 15%;
+ margin-left: 20%;
+ text-align: justify;
+ margin-top : 0px;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+     -moz-background-size: 100% auto; 
+    -webkit-background-size: 100% auto;
+    -o-background-size: 100% auto; 
+ color:#000;
+}
             </style>
         <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
