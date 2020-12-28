@@ -1,7 +1,7 @@
 body{
 background-color: 000;
-margin-left: 25%; 
-margin-right: 25% ;  
+margin-left:15%; 
+margin-right:15% ;  
 text-align: center;
     -moz-background-size: 100%;
     -webkit-background-size: 100%;
@@ -11,9 +11,5 @@ text-align: center;
     -webkit-background-size: 100% auto;
     -o-background-size: 100% auto; 
  color:#fff;
-}
-div{
-font-size:25px;
-
-
+    font-size:25px;
 }
