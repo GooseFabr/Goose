@@ -15,7 +15,10 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/70846939" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; 
+<link rel="shortcut icon" href="GooseFabr.github.io/img/favicon.goose.ico">
        </head>
-</html>
+
 <h1><a href="https://goosefabr.github.io/brigde.html">Гусевский мост </a><h1>
 </h1></h1>
+</html>
