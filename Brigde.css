@@ -11,8 +11,9 @@ text-align: center;
     -webkit-background-size: 100% auto;
     -o-background-size: 100% auto; 
    
-    Color: #fff; 
+
 }
 div {
  font-size:25px;
+    Color: #fff;
 }
