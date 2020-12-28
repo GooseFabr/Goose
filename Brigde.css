@@ -1,7 +1,9 @@
 body{
-background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat;
+background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; 
+ margin-right: 10%;
+ margin-left: 10%;
+ text-align: justify;
  margin-top : 0px;
- text-align: center;
     -moz-background-size: 100%;
     -webkit-background-size: 100%;
     -o-background-size: 100%;
