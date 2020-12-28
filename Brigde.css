@@ -1,6 +1,7 @@
 body{
-background-color: 000;
-text-align: center;
+background: url(https://github.com/vkedah661/vkedah661.github.io/blob/master/img/U62ybAJbehQ.jpg?raw=true) no-repeat;
+ margin-top : 0px;
+ text-align: center;
     -moz-background-size: 100%;
     -webkit-background-size: 100%;
     -o-background-size: 100%;
@@ -8,10 +9,10 @@ text-align: center;
      -moz-background-size: 100% auto; 
     -webkit-background-size: 100% auto;
     -o-background-size: 100% auto; 
-   
-
+ color:#000;
 }
-div {
- font-size:25px;
-    Color: #fff;
+div{
+font-size:25px;
+
+
 }
