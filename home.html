@@ -20,6 +20,22 @@
 <link rel="shortcut icon" href="GooseFabr.github.io/img/favicon.goose.ico">
   <link rel="stylesheet" type="text/css" href="GooseFabr.github.io/home.css"/> 
  <style type="text/css">
+  header {
+ display: block; /* Для старых браузеров */
+ height: 405px; /* Высота шапки */
+ background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/up_panel.png?raw=true) no-repeat center bottom;
+}
+  .header-bg {
+    background: url(images/header-animal.png) repeat-x center bottom; 
+                /* Животные */
+    height: 405px; /* Высота шапки */
+    text-align: center; /* Выравнивание по центру */
+   }
+   .header-bg img {
+    position: relative; /* Относительное позиционирование */
+    top: 40px; /* Сдвигаем картинку вниз */
+   }
+  
   .field {
    width: 450px; /* Ширина */
    padding: 20px; /* Поля */
@@ -103,6 +119,13 @@
      }
 </style>
 </head>
+ <body>
+  <header>
+   <div class="header-bg">
+    <img src="images/header-title.png" alt="Как поймать льва в пустыне"
+    width="456" height="166">
+   </div>
+  </header>
  <div class="saitbar">
  <ul class="menu-4">
    <li><a href="https://goosefabr.github.io/home.html">Главная</a></li>
@@ -131,7 +154,6 @@
    <li><a href="#">В разработке</a></li>
  </ul>
 </div>
- <body>
   <br>
   <div class="field" link="#000" vlink="#000" alink="#000">
    <img src="https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/hJ-n9Z7aazg.jpg?raw=true" width="80" height="50"alt="тест">
