@@ -1,4 +1,4 @@
-.osn{
+body{
 background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; 
  margin-right: 15%;
  margin-left: 20%;
@@ -13,7 +13,7 @@ background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U
     -o-background-size: 100% auto; 
  color:#000;
 }
-.txt{
+div{
 font-size:25px;
 
 
