@@ -6,3 +6,17 @@ background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/f
  color:#000;
  font-size:25px;
 }
+h1{
+  color: #2980b9;  — цвет заголовка
+  font: 50px Times New Roman;  — шрифт
+  margin-left: 500px;  — отступ слева
+
+}
+
+h3{
+  width: 400px;  — ширина
+  color: #9b59b6;  — цвет
+  font-style: italic;  — курсив
+  margin: 90px 0 0 40px;  — расположение
+
+}
