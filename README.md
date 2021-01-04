@@ -1,5 +1,6 @@
 <html>
     <head>
+        <meta http-equiv="refresh" content="0;https://goosefabr.github.io/home.html">
         <style>
             body{
 background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; 
