@@ -36,6 +36,6 @@ background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U
 
 <link rel="shortcut icon" href="GooseFabr.github.io/img/favicon.goose.ico">
        </head>
-
+<h1><a href="https://goosefabr.github.io/brigde.html">Гусевский мост </a><h1>
 </h1></h1>
 </html>
