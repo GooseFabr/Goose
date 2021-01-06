@@ -1,5 +1,6 @@
 <html>
     <head>
+        <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
         <script data-ad-client="ca-pub-2658303976978345" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <meta http-equiv="refresh" content="0;https://goosefabr.github.io/home.html">
         <meta name="description" content="Данный сайт раскажет вам о заброшках РФ.В основном о заброшках Свердловской области."> 
