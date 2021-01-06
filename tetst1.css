@@ -9,3 +9,7 @@ margin: 0;
  color:#fff;
  font-size:20px;
 }
+@font-face {
+  font-family: 'Golos Text_DemiBold';
+  src: url('/font/Golos Text_DemiBold.ttf') format('truetype');
+}
