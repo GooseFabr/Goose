@@ -1,6 +1,8 @@
 <html>
     <head>
         <meta http-equiv="refresh" content="0;https://goosefabr.github.io/home.html">
+        <meta name="description" content="Данный сайт раскажет вам о заброшках РФ.В основном о заброшках Свердловской области."> 
+ <meta name="Keywords" content="goose,fabr,фабр,гусь,фабричное,"> 
         <style>
             body{
 background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; 
