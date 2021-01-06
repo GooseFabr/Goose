@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: 
+Host: https://goosefabr.github.io
+Sitemap: http://goosefabr.github.io/home.html/sitemap.xml
