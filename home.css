@@ -11,3 +11,7 @@ margin: 0;
   font-family: 'Golos Text_Bold.ttf';
   src: url('/font/Golos Text_Bold.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'Golos Text_DemiBold.ttf';
+  src: url('/font/Golos Text_DemiBold.ttf') format('truetype');
+}
