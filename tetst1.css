@@ -3,13 +3,16 @@ body {
 background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/fon.png?raw=true); 
  margin-top : 0px;
 margin: 0;
- background-size: cover; /* Фон занимает всю доступную площадь */
- text-align: justify;
+ text-align: left;
  margin-top : 0px;
  color:#fff;
  font-size:20px;
 }
 @font-face {
-  font-family: 'Golos Text_DemiBold';
+  font-family: 'Golos Text_Bold.ttf';
+  src: url('/font/Golos Text_Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Golos Text_DemiBold.ttf';
   src: url('/font/Golos Text_DemiBold.ttf') format('truetype');
 }
