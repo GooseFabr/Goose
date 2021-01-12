@@ -203,13 +203,16 @@ img {vertical-align: middle;}
   to {opacity: 1}
 }
 #open-popup 
-}
-
+{
+ width: 150px;
+height: 150px;}
 .white-popup {
   position: absolute;
   width: auto;
   max-width: 200px;
   margin: 20px auto;
+   width: 150px;
+  height: 150px;
 
 }
 .img1
@@ -243,11 +246,8 @@ img {vertical-align: middle;}
   <div class="left1"> 
       <p><font color="#d9d9d8" ><h2>Фото</h2></font></p>
   <button id="open-popup">
-<div class="img1">
-  <img src="https://avatanplus.com/files/effects/original/583eb65914425158b4f84bfb.jpg" alt="Кнопка «button»"  width="150px"
-  height="150px" >  </div></button>
-<div id="my-popup" class="mfp-hide white-popup">
-</div>
+
+  </button>
     <script>
    $('#open-popup').magnificPopup({
     items: [
