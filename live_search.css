@@ -8,6 +8,7 @@
 
 .elastic li{
     transition: all ease 500ms;
+      list-style-type: none; /* Убираем маркеры */
 }
 
 .elastic li.hide {
