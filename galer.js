@@ -2,8 +2,8 @@
          $('#open-popup').magnificPopup({
     items: [
       {
-        src: 'GooseFabr.github.io/img/hJ-n9Z7aazg.jpg',
-        title: 'Peter & Paul fortress in SPB'
+        src: 'https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/hJ-n9Z7aazg.jpg?raw=true',
+        title: 'Валя круглишь '
       },
       {
         src: 'https://www.youtube.com/watch?v=YQ4Y6anIbw4',
