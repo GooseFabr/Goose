@@ -245,7 +245,16 @@ display: inline-block; /* Строчно-блочный элемент */
 
 }
 </style>
- 
+ <script type="text/javascript">
+ var o=w=d=0;
+function startTime() {
+if(!o || Math.random()>.5) o=30+Math.floor(Math.random()*50);
+if(!w || Math.random()>.5) w=10+Math.floor(Math.random()*20);
+if(!d || Math.random()>.5) d=10+Math.floor(Math.random()*20);
+document.getElementById('txt').innerHTML="На сайте онлайн: "+o+"<br />Смотрят видео: "+w+"<br />Скачивают файлы: "+d;
+setTimeout('startTime()',1000);
+}
+  </script>
 </head>
  <body>
    <script src="GooseFabr.github.io/jquery-3.2.1.min.js"></script>
@@ -263,6 +272,9 @@ display: inline-block; /* Строчно-блочный элемент */
    <div class="header-bg22">
   
     <div class="container2">
+     <div onload="startTime()">
+<div id="txt"></div>
+      </div>
             <font face="Golos Text_DemiBold.ttf"> 
      
       <img src="https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/mini_panel.png?raw=true" alt="4avo" width="150" height="34" vspace="3px" hspace="20px"> 
