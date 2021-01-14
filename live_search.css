@@ -1,6 +1,5 @@
 #elastic {
-    display: block;
-    margin: 40px 0;
+    display: inline-block; /* Строчно-блочный элемент */
 }
 .text-center {
     text-align: center;
@@ -12,11 +11,12 @@
 }
 
 .elastic li.hide {
-    display: none;
+    display: inline-block; /* Строчно-блочный элемент */
+
 }
 
 mark {
-    baground: pink;
+    background: pink;
 }
 
 .button-success a {
