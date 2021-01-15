@@ -3,8 +3,15 @@
         <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
         <script data-ad-client="ca-pub-2658303976978345" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <meta http-equiv="refresh" content="0;https://goosefabr.github.io/home.html">
-        <meta name="description" content="Данный сайт раскажет вам о заброшках РФ.В основном о заброшках Свердловской области."> 
- <meta name="Keywords" content="goose,fabr,фабр,гусь,фабричное,"> 
+        <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
+ <script data-ad-client="ca-pub-2658303976978345" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ <meta name="description" content="GooseFabr - Это Прекрасные и одновременно ужасающие мёртвые деревни, на вечно забытые улицы и опустевшие построения Урала. 
+                                   Это малоизвестные большому кругу места, пейзажные поля и коричневатые словно ржавчина берега."> 
+ <meta name="Keywords" content="goose,fabr,фабр,гусь,фабричное, посёлок фабричное, фабрика, добанчино, антоновка, 
+                                тура, Досуговый центр посёлок Фабричное,туринск, Туринский район,смычка ,Досуговый центр,
+                                таборы,мост, ЦБЗ, Туринский техникум, фазана, Фабричное СОШ, МАОУ Фабричное СОШ,Водоисточник,Акварель, 
+                                Таборинка, Жилина, Клещево, кляче, Чекуново, Школьная,Больничная, Табочинская, Победы, Сельсовет, Революции, 
+                                Таборинская, рабочая, культурная , малково, болото малково, Монастырское,Свердловская, Свердловская область  "> 
         <style>
             body{
 background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; 
