@@ -234,6 +234,28 @@ height: 140px;
   width: 100px;
   height: 100px;
 }
+  #open-popup2 
+{
+ width: 140px;
+height: 140px;
+  background-color: #1d1c21;
+   border: 2px solid #1d1c21; /* Параметры рамки */
+  outline: none;
+  } 
+.white-popup2 {
+  position: absolute;
+  width: auto;
+  max-width: 200px;
+  margin: 20px auto;
+   width: 100px;
+  height: 100px;
+
+}
+.img2
+{
+  width: 100px;
+  height: 100px;
+}
   .container3
      {
      font-family: 'Golos Text_DemiBold.ttf';
@@ -330,6 +352,38 @@ setTimeout('startTime()',1000);
 });
 </script>
      <font color="#d9d9d8" >&ensp;Видео</font>
+   <button id="open-popup2">
+  <img src="https://avatanplus.com/files/effects/original/583eb65914425158b4f84bfb.jpg" alt="Кнопка «button»" width="70px" height="55px">
+      <img src="https://avatanplus.com/files/effects/original/583eb65914425158b4f84bfb.jpg" alt="Кнопка «button»" width="50px" height="55px">
+      <img src="https://avatanplus.com/files/effects/original/583eb65914425158b4f84bfb.jpg" alt="Кнопка «button»" width="124px" height="55px" vspace="4px">
+  </button> 
+   <script>
+         $('#open-popup2').magnificPopup({
+    items: [
+      {
+        src: 'https://sun9-41.userapi.com/impg/HdqNGjrFuDL3pIQ59RYL5vo8ufaTM0DWXor3gw/71l-TnGIoD8.jpg?size=656x1080&quality=96&sign=d53155649c1ec3bc4391cf56cc8a9a6b&type=album',
+        title: 'Валя круглишь '
+      },
+     {
+        src: 'https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/hJ-n9Z7aazg.jpg?raw=true',
+        title: 'Валя круглишь '
+      },
+      {
+        src: 'https://www.youtube.com/watch?v=YQ4Y6anIbw4',
+        type: 'iframe' // this overrides default type
+      },
+      {
+        src: $('<div class="white-popup">Назад</div>'), // Dynamically created element
+        type: 'inline'
+      },
+     
+    ],
+    gallery: {
+      enabled: true
+    },
+    type: 'image' // this is a default type
+});
+    </script>
    <br>
    <div class="slideshow-container">
 
