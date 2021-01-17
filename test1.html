@@ -258,7 +258,7 @@ display: inline-block; /* Строчно-блочный элемент */
 }
 </style>
 </head>
- <body>
+ <body  onload="startTime()">
    <script src="GooseFabr.github.io/jquery-3.2.1.min.js"></script>
   <script src="GooseFabr.github.io/jquery.magnific-popup.min.js "></script>
   <script src="GooseFabr.github.io/galer.js"></script>
@@ -278,7 +278,17 @@ display: inline-block; /* Строчно-блочный элемент */
             <font face="Golos Text_DemiBold.ttf"> 
       <img src="https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/panel2.0-1.png?raw=true" alt="4avo" width="75" height="34" vspace="3px" hspace="20px"> 
       <img src="https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/panel2.0-1.png?raw=true" alt="4avo" width="75" height="34" vspace="3px" hspace="0px"> 
-          <div class="top-left2">ЧаВо</div>
+             
+          <div class="top-left2"><div id="txt">
+           </div></div>
+             <script>
+var o=w=d=0;
+function startTime() {
+if(!o || Math.random()>.5) o=10+Math.floor(Math.random()*20);
+document.getElementById('txt').innerHTML="На сайте: "+o;
+setTimeout('startTime()',1000);
+}
+</script>
              </font></div><font face="Golos Text_DemiBold.ttf"><a href="https://vk.com/kirillmalad0i">
      </a><a href="https://vk.com/kirillmalad0i">   <div class="top-left">ЧаВо</div></a>
     </div>
